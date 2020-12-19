@@ -1,0 +1,159 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body {
+	background: #f5f7fa;
+	padding: 20px;
+	font-family: Montserrat;
+}
+.wrapper {
+	background: #ffffff;
+	display: flex;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.sidebar {
+	background: #1e2939;
+	width: 370px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.my-foto {
+	width: 370px;
+}
+.about-me {
+	padding-left: 90px;
+	padding-right: 90px;
+	padding-top: 110px;
+	padding-bottom: 110px;
+}
+.contacts {
+	margin-top: 60px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.aside-title {
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: 24px;
+	color: #ffffff;
+	margin-bottom: 20px;
+}
+.aside-style {
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #ffffff;
+	margin-right: 20px;
+}
+.C-E {
+	color: #ffffff;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 700;
+}
+.aside-itmes {
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: 24px;
+	color: #f2670b;
+	margin-left: 15px;
+}
+.skill-text {
+	color: #c3c6ca;
+}
+.profession {
+	width: 160px;
+	height: 14px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 700;
+	margin-bottom: 23px;
+}
+.name {
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 45px;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 89px;
+}
+.description {
+	color: #595959;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: 24px;
+	margin-top: 24px;
+}
+.main-info {
+	margin-bottom: 64px;
+}
+.projects {
+	font-family: Montserrat;
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 24px;
+	margin-bottom: 10px;
+}
+.project-link {
+	color: #595959;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+}
+.tech-name {
+	color: #595959;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 400;
+}
+.project-item {
+	font-weight: 700;
+	margin-left: 17px;
+}
+.project-container {
+	margin-bottom: 55px;
+}
+.profession-title {
+	font-size: 16px;
+	font-weight: 700;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.company {
+	color: #ff6b08;
+}
+.period {
+	color: #a8a8a8;
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 400;
+}
+.divider {
+	color: black;
+}
+.profession-duties {
+	margin-top: 14px;
+	margin-bottom: 30px;
+}
+.duties-description {
+	color: #595959;
+	font-size: 14px;
+	font-weight: 400;
+}
+.speciality {
+	font-size: 14px;
+	font-weight: 700;
+	margin-bottom: 15px;
+}
