@@ -11,9 +11,12 @@ body {
 .wrapper {
 	background: #ffffff;
 	display: flex;
+	
 	max-width: 1200px;
 	margin: 0 auto;
+
 }
+
 .sidebar {
 	background: #1e2939;
 	width: 370px;
@@ -161,3 +164,23 @@ body {
 .add{
 	margin-top: 30px;
 }
+@media screen and (max-width: 768px) {
+	.wrapper{
+     flex-wrap: wrap;
+	 
+	}
+    .sidebar{
+		width: 100%;
+	}
+	.sidebar img {
+		width: 100%;
+	}
+	.about-me{
+		width: 100%;
+		padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 12%;
+	padding-bottom: 12%;
+
+	}
+	}
